@@ -19,15 +19,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-## 🌟 GitHub Stats
-![Danulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-## 🔐 Interests & Focus
-- Building secure, scalable, and user-focused web & mobile applications  
-- Authentication, Subscription Systems & Account Recovery  
-- System Architecture & Backend Logic  
-- Full-Stack Development (MERN & Django-React)  
-- AI & ML for predictive analytics and intelligent systems  
+ 
