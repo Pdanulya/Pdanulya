@@ -1,8 +1,6 @@
+## Hi, I'm Poojani ✨
 
-- 📫 Email: poojanidanulya@gmail.com ...
-<h1>Who Am I?</h1><br>
-<h4>Hi, I'm Poojani Danulya, an undergratuate at the <b>Faculty of Information Technology, University of Moratuwa.</b></h4>
-<!---
-Pdanulya/Pdanulya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 IT Undergraduate at University of Moratuwa<br>
+🤖 AI & ML Enthusiast<br>
+🌐 Web & Mobile Apps | Building secure, scalable, and user-focused solutions<br>
+💬 Always open to collaboration, sharing ideas, and pushing boundaries in tech  
