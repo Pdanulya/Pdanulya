@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,react,html,css,django,nodejs,express,postgres,mysql,mongodb,firebase,git,github,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,react,html,css,django,nodejs,express,postgres,mysql,mongodb,firebase,github,tensorflow)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
