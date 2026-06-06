@@ -51,5 +51,13 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&labelColor=1A1A1A&logo=googlecolab&logoColor=black" />
 </p>
 
+## 📝 Read My Articles & Blogs
+
+<p align="left">
+  <a href="https://medium.com/@poojanidanulya">
+    <img src="https://img.shields.io/badge/🚀%20Read%20My%20Articles%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
 
 
